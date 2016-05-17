@@ -1,0 +1,14 @@
+.navbar {
+color: blue;
+}
+
+.navbar-clicked {
+color: lightblue;
+}
+
+.navlist {
+  float: left;
+  align-items: stretch;
+  border-right: 20px;
+  padding-right: 60px;
+}
